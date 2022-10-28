@@ -1,4 +1,4 @@
-# Easy Photo Renamer
+# Easy Photo Renamer 0.1.0
 
 ## About the App
 
