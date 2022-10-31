@@ -1515,7 +1515,7 @@ def tutorial():
 # main app window
 window = Tk()
 window.geometry('1030x500')
-window.title(softwareVersion)
+window.title(software_version)
 
 # for browse_source and browse_speci_files
 global user_dir
